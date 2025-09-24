@@ -1,0 +1,31 @@
+DESAFÍO I: 
+Lo fundamental para determinar la "identidad" de un organismo se encontraría dentro de las macromoléculas
+ADN y ARN. 
+El ADN contiene la información hereditaria a largo plazo. Es una molécula de doble helice, esta compuesta
+por nucleotidos del cual cada uno tiene una base nitrogenada (adenina -A-, timina -T-, citosina -C- o 
+guanina -G-), un azúcar desoxirribosa y un grupo fosfato. Al ser de doble helice, tiene una hebra
+complementaria dependiendo de su secuencia de nucleotidos, la hebra complementaria se empareja 
+(A con T, C con G) mediante enlaces de hidrógeno.
+
+DESAFÍO II:
+La información contenida en la estructura primaria de las proteínas se puede expresar en un lenguaje
+de programación como un Array de esta manera: proteina = ['Ala', 'Cys', 'Asp', 'Glu', 'Phe']
+
+DESAFÍO III:
+Se puede expresar como una nueva clase en la programación orientada a objetos, donde se le puedan
+asignar sus atributos y establecer la información necesaria como lo serían sus coordenadas en un
+espacio tridimensional.
+
+DESAFÍO IV:
+En 1952, Rosalind Franklin capturó una imagen de la forma helicoidal del ADN mediante difracción 
+de rayos X. Reveló también su estructura de doble helice y detalles como el diámetro y la periodicidad
+de la molécula, lo cual fue utilizado por James Watson y Francis Crick sin su consentimiento
+para proponer su modelo de doble hélice en 1953.
+El caso de Franklin muestra como el prejuicio de género invisibiliza contribuiciones, y subraya
+la importancia de compartir datos con consentimiento y reconocer aportes adecuadamente.
+
+DESAFÍO VI: 
+Dos individuos de una misma especie se distinguen por diferencias minimas en su secuencia de ADN,
+estas variaciones afectan la estructura primaria de proteínas lo que puede cambiar su función y
+los rasgos físicos y fisiológicos. También los factores ambientales pueden influir en la expresión
+de los genes aunque se comparta ADN.
